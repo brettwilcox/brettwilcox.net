@@ -1,3 +1,10 @@
 name = "brettwilcox-net"
 main = "src/index.ts"
 compatibility_date = "2022-07-07"
+
+account_id = "a38e635e3ee1565d5162e65ab1896b80" # ← Replace with your Account ID.
+workers_dev = true
+
+[[r2_buckets]]
+binding = 'MY_BUCKET'                 # <~ valid JavaScript variable name
+bucket_name = 'media-brettwilcox-net'
