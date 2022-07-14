@@ -21,7 +21,7 @@
 <div class="content">
   <h1>About this app</h1>
 
-  <p>Brett was here.</p>
+  <p>This is my future app.</p>
 
   <!-- TODO lose the @next! -->
   <pre>npm init svelte@next</pre>
